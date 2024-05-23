@@ -3,3 +3,5 @@ I am a full-stack web developer. skilled in designing responsive user interfaces
 I know I'm a junior🙂, but I'm sure I have a lot to contribute. I am eager to learn, progress, and strive for the top!🚀
 
 <img src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=ADD_THEME_HERE" width="400">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EstyKauftiel&theme=gruvbox&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
