@@ -1,5 +1,5 @@
 <h1><b><p align="center">  Hi👋, I'm Esty Kauftiel </p></b></h1>
-I'm a full-stack web developer passionate about crafting user-friendly interfaces and robust backend systems.
+I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.
 
 ## About Me
 
