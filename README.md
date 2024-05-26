@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer with a keen eye for crafting engaging 
 
 ## My Mission
 
-As a junior developer, I bring enthusiasm, dedication, and a drive to learn to every project. I'm committed to delivering quality results and continuously improving my skills.
+As a full-stack web developer, I bring enthusiasm, dedication, and a drive to learn to every project. I'm committed to delivering quality results and continuously improving my skills.
 
 ## Languages and Tools
 
