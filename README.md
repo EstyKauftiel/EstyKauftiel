@@ -29,5 +29,4 @@ To get a glimpse of my projects on GitHub and start a discussion or collaboratio
 
 [![Esty Kauftiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=THEME_NAME_HERE)](https://github.com/EstyKauftiel)
 
-<img src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=ADD_THEME_HERE" width="400">
 
