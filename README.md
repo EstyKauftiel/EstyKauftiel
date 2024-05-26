@@ -13,7 +13,7 @@ I'm a full-stack web developer passionate about crafting user-friendly interface
 
 As a junior developer, I bring enthusiasm, dedication, and a drive to learn to every project. I'm committed to delivering quality results and continuously improving my skills.
 
-## Technologies I've Learned
+## Languages and Tools
 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&style=flat-square)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&style=flat-square)
