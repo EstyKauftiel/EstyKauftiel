@@ -1,4 +1,4 @@
-<h1><b><p align="center">  Hi👋, I'm Esty Kauftiel </p></b></h1>
+<h1><b><p align="center">Hi👋, I'm Esty Kauftiel</p></b></h1>
 I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.
 
 ## About Me
@@ -8,6 +8,7 @@ I'm a passionate full-stack web developer with a keen eye for crafting engaging 
 - 🛠️ Skilled in responsive UI design and performance optimization
 - 📊 Strong problem-solving and debugging skills
 - 🌱 Eager to learn and grow in a collaborative environment
+- 👀 Actively seeking new job opportunities in full-stack web development
 
 ## My Mission
 
@@ -36,11 +37,12 @@ As a full-stack web developer, I bring enthusiasm, dedication, and a drive to le
 
 ## Let's Connect
 
-Explore my GitHub repositories and reach out for collaboration or discussion! 
+Explore my GitHub repositories and reach out for collaboration or discussion!
 
 📫 How to reach me: esty3610@gmail.com
 
 [![Esty Kauftiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=THEME_NAME_HERE)](https://github.com/EstyKauftiel)
+
 
 ---
 
