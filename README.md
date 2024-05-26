@@ -1,4 +1,4 @@
-###<p align="center">  Hi👋, I'm Esty Kauftiel </p>
+<b><p align="center">  Hi👋, I'm Esty Kauftiel </p></b>
 I'm a full-stack web developer passionate about crafting user-friendly interfaces and robust backend systems.
 
 ## About Me
