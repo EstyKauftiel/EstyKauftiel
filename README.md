@@ -20,6 +20,7 @@ As a full-stack web developer, I bring enthusiasm, dedication, and a drive to le
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&style=flat-square)
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-339933?logo=Python&style=flat-square)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=flat-square)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&style=flat-square)
