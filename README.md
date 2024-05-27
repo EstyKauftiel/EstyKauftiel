@@ -23,7 +23,6 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 📫 How to reach me: esty3610@gmail.com
 
-[![Esty Kauftiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=THEME_NAME_HERE)](https://github.com/EstyKauftiel)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact" alt="EstyKauftiel" /></p>
 
