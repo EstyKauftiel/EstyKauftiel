@@ -25,7 +25,11 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 [![Esty Kauftiel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=THEME_NAME_HERE)](https://github.com/EstyKauftiel)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact" alt="EstyKauftiel" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&locale=en" alt="EstyKauftiel" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyKauftiel&" alt="EstyKauftiel" /></p>
 ---
 
 
