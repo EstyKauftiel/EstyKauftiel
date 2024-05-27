@@ -1,8 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Esty Kauftiel</p></b></h1>
-I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
+<b>I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.</b>
 
 ## About Me
 
@@ -26,6 +23,7 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 📫 How to reach me: esty3610@gmail.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact" alt="EstyKauftiel" /></p>
 
