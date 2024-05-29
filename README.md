@@ -54,7 +54,7 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=radical" alt="EstyKauftiel" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=synthwave&bg_color=0d1117&title_color=ff69b4&text_color=9f9f9f&icon_color=79ff97&border_color=44475a" alt="EstyKauftiel" />
 </p>
 
 <p>
