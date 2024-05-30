@@ -65,8 +65,6 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 </p>
 
 
-##
----
 
 
 
