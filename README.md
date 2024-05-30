@@ -61,7 +61,7 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
 </a>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyKauftiel&theme=radical" alt="EstyKauftiel" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyKauftiel&theme=dracula" alt="EstyKauftiel" />
 </p>
 
 
