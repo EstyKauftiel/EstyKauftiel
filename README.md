@@ -11,7 +11,7 @@
 - 📊 Strong problem-solving and debugging skills
 - 🌱 Eager to learn and grow in a collaborative environment
 - 👀 Actively seeking new job opportunities in full-stack web development
-![Developer Gif](https://media.giphy.com/media/3og0ICyHv5NfCvbtqQ/giphy.gif)
+
 ## My Mission
 
 As a full-stack web developer, I bring enthusiasm, dedication, and a drive to learn to every project. I'm committed to delivering quality results and continuously improving my skills.
