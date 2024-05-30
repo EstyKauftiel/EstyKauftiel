@@ -4,13 +4,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
 
 ## About Me
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 - 💻 Full-stack web developer
 - 🌐 Proficient in frontend and backend technologies
 - 🛠️ Skilled in responsive UI design and performance optimization
 - 📊 Strong problem-solving and debugging skills
 - 🌱 Eager to learn and grow in a collaborative environment
 - 👀 Actively seeking new job opportunities in full-stack web development
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 ## My Mission
 
