@@ -2,11 +2,10 @@
 <b>I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.</b>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-
 
 ## About Me
+
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 💻 Full-stack web developer
 - 🌐 Proficient in frontend and backend technologies
