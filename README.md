@@ -54,11 +54,11 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="EstyKauftiel" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=radical" alt="EstyKauftiel" />
 </p>
 
 <a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=EstyKauftiel&show_icons=true&theme=radical&line_height=27" />
 </a>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EstyKauftiel&theme=radical" alt="EstyKauftiel" />
