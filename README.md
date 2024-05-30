@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 - 💻 Full-stack web developer
 - 🌐 Proficient in frontend and backend technologies
 - 🛠️ Skilled in responsive UI design and performance optimization
