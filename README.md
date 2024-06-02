@@ -55,6 +55,9 @@ Explore my GitHub repositories and reach out for collaboration or discussion!
 
 📫 How to reach me: esty3610@gmail.com
 
+## My Resume
+You can view my resume [here](https://github.com/EstyKauftiel/CV/raw/main/CV-Esty%20kauftiel.pdf).
+
 ##
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="EstyKauftiel" />
