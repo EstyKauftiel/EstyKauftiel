@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Esty Kauftiel</p></b></h1>
-<b>I'm a passionate full-stack web developer with a keen eye for crafting engaging user experiences and robust backend systems. My expertise lies in designing responsive interfaces, building RESTful APIs, and ensuring system performance and security.</b>
+<h3><b>I'm a Full Stack Developer with strong self-learning skills, precision in execution, problem-solving abilities, and goal-oriented mindset.</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
 
