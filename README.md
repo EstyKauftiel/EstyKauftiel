@@ -1,5 +1,5 @@
 <h1><b><p align="center">Hi👋, I'm Esty Kauftiel</p></b></h1>
-<h3><b>I'm a Full Stack Developer with strong self-learning skills, precision in execution, problem-solving abilities, and goal-oriented mindset.</b></h3>
+<h3 align="center"><b>I'm a Full Stack Developer with strong self-learning skills, precision in execution, problem-solving abilities, and goal-oriented mindset.</b></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
 
