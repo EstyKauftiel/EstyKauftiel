@@ -13,7 +13,7 @@
 - 🛠️ Skilled in responsive UI design and performance optimization
 - 📊 Strong problem-solving and debugging skills
 - 🌱 Eager to learn and grow in a collaborative environment
-- 👀 Actively seeking new job opportunities in full-stack web development
+- 👀 Actively seeking new job opportunities in full-stack web development, You can view my resume [here](https://github.com/EstyKauftiel/CV/raw/main/CV-Esty%20kauftiel.pdf).
 
 ## My Mission
 
@@ -54,9 +54,6 @@ As a full-stack web developer, I bring enthusiasm, dedication, and a drive to le
 Explore my GitHub repositories and reach out for collaboration or discussion!
 
 📫 How to reach me: esty3610@gmail.com
-
-## My Resume
-You can view my resume [here](https://github.com/EstyKauftiel/CV/raw/main/CV-Esty%20kauftiel.pdf).
 
 ##
 <p>
