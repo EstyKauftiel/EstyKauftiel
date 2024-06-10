@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EstyKauftiel&label=Profile%20views&color=0e75b6&style=flat" alt="EstyKauftiel" /> </p>
 
-## About Me
+## 💭About Me
 
 <img align="right" alt="Coding" width="250" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
@@ -15,11 +15,11 @@
 - 🌱 Eager to learn and grow in a collaborative environment
 - 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/1waB1gWMj3ypoOsJym0mzG6TThw-OQQY9/view?usp=drive_link" target="_blank">here</a>.
 
-## My Mission
+## 🚀My Mission
 
 As a full-stack web developer, I bring enthusiasm, dedication, and a drive to learn to every project. I'm committed to delivering quality results and continuously improving my skills.
 
-## Languages and Tools
+## 🛠Languages and Tools
 <p align="left"> 
  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -49,13 +49,14 @@ As a full-stack web developer, I bring enthusiasm, dedication, and a drive to le
 <a href="https://www.anaconda.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Conda" width="55" height="55"/></a>
  </p>
 
-## Let's Connect
+## 📫Let's Connect
 
 Explore my GitHub repositories and reach out for collaboration or discussion!
 
-📫 How to reach me: esty3610@gmail.com
+How to reach me: esty3610@gmail.com
 
-##
+## 📊Github Stats
+
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EstyKauftiel&show_icons=true&locale=en&layout=compact&theme=dracula" alt="EstyKauftiel" />
 </p>
