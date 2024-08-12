@@ -13,7 +13,6 @@
 - 🛠️ Skilled in responsive UI design and performance optimization
 - 📊 Strong problem-solving and debugging skills
 - 🌱 Eager to learn and grow in a collaborative environment
-- 👀 Actively seeking new job opportunities in full-stack web development. You can view my resume <a href="https://drive.google.com/file/d/1TEbQu9SgRmpSeIOR-IHp144rtMqv1xoq/view?usp=drive_link" target="_blank">here</a>.
 
 ## 🚀My Mission
 
